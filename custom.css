@@ -30,13 +30,17 @@
 
 #copyright{
     font-size: 12px;
-    position: relative;
-    margin-left: 450px;
 }
 
 #designed-by{
     font-size: 8px;
-    position: relative;
-    top:15px;
-    right: 220px;
+}
+
+#edited-by{
+    font-size: 8px;
+}
+
+.footer p{
+    margin: 0;
+    padding: 0;
 }
