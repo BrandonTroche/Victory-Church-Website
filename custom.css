@@ -1,0 +1,42 @@
+.center-top-nav{
+    float: none;
+}
+
+@media (max-width:767px) {
+ .navbar-collapse {
+    text-align:center;
+    }
+}
+
+#home-page-container{
+    width: 100%;
+    height: 1000px;
+    background-color: red;
+}
+
+#home-page{
+    height: 1000px;
+    background-color: white;
+}
+
+#bottom-bar{
+    text-align: center;
+    margin-top: -52px;
+}
+
+#bottom-bar a{
+    color:grey;
+}
+
+#copyright{
+    font-size: 12px;
+    position: relative;
+    margin-left: 450px;
+}
+
+#designed-by{
+    font-size: 8px;
+    position: relative;
+    top:15px;
+    right: 220px;
+}
