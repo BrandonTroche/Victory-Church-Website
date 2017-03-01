@@ -28,7 +28,7 @@
 
 #church-calendar{
     position: relative;
-    left: 8rem;
+    left: 150px;
 }
 
 #edited-by{
@@ -38,4 +38,16 @@
 p{
     margin: 0;
     padding: 0;
+}
+
+#church-map{
+    position: relative;
+    top: 10rem;
+    left: 9rem;
+}
+
+#contact-info{
+    position:relative;
+    top:3rem;
+    left:9rem;
 }
